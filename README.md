@@ -1,9 +1,12 @@
 <h1 align="left">Olá, sou o Luiirye (Luis Felipe) 🌪️🌪️</h1>
 <!-- ![Olá](https://github.com/luiirye/luiirye/blob/main/imgs/omghiluffy.mp4) -->
 <img src="imgs/omghiluffy.gif" width="300"/>
-<h4 align="left">Sou um simples estudante de Engenharia de Computação. Me esforçando e estudando constantemente (mesmo naqueles dias menos produtivos) para desenvolver habilidades na área de TI </h4>
-<h4>Estudando HTML, CSS e JavaScript por fora.</h4>
+
+---
+<h4 align="left">Sou um simples estudante de Engenharia de Computação. Me esforçando e estudando constantemente (mesmo naqueles dias menos produtivos) para desenvolver habilidades na área de desenvolvimento. </h4>
+<h4>Estudando HTML, CSS e JavaScript no momento.</h4>
 <h4>Gosto de um bom café☕, bolos🍰 e macarrão🍝.</h4>
+---
 
 <h2>Tecnologias:</h2>
 <div style="display: inline_block"><br>
