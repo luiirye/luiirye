@@ -1,14 +1,27 @@
-<h1 align="left">Olá, sou o Luiirye (Luis Felipe) 🌪️🌪️</h1>
-<!-- ![Olá](https://github.com/luiirye/luiirye/blob/main/imgs/omghiluffy.mp4) -->
-<img src="imgs/omghiluffy.gif" width="300"/>
+<h3 align="center">👋 Olá, Eu sou o Luis (Luii)!</h3>
+
+<p align="center">
+  <a href="https://x.com/lulufelp">X</a> •
+  <a href="https://www.linkedin.com/in/luisfelipeborgesluii/">LinkedIn</a> •
+  <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=3fc6429bea63454c">Spotify</a>
+</p>
 
 ---
-<h4 align="left">Sou um simples estudante de Engenharia de Computação. Me esforçando e estudando constantemente (mesmo naqueles dias menos produtivos) para desenvolver habilidades na área de desenvolvimento. </h4>
-<h4>Estudando HTML, CSS e JavaScript no momento.</h4>
-<h4>Gosto de um bom café☕, bolos🍰 e macarrão🍝.</h4>
+Sou um estudante de Engenharia de Computação, cursando o 8º Semestre bacharelado. 
+
+Sou uma pessoa simples, gosto de rir e conversar com amigos e colegas, buscando sempre um ambiente amigável. Gosto de estudar e notar minha progressão, mesmo que de forma lenta.
+
+Fora dos estudos, gosto bastante de jogar jogos competitivos, indies e souls. Ouvir músicas e conversar com o meu cachorro chamado Bob (Que é um excelente ouvindo, por sinal) 🔥
+
+"Não vou recuar, vou seguir em frente, como um centopéia"
+- Ken Kaneki
 ---
 
-<h2>Tecnologias:</h2>
+- 📫 Me mande uma mensagem no [X](https://x.com/lulufelp) ou por e-mail [email](mailto:borg.esluii01645@gmail.com) 
+
+---
+
+<h2>Tecnologias em desenvolvimento:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Cplusplus" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -17,8 +30,6 @@
   <img align="center" alt="JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-<hr>
+---
 
-<h2>LinkedIn:</h2>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luisfelipeborgesluii/)
