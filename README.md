@@ -11,7 +11,7 @@ Sou um simples estudante, cursando 8º semestre de Bacharelado em Engenharia de 
 
 Sou uma pessoa simples, gosto de rir e conversar com amigos e colegas, buscando sempre um ambiente amigável. Gosto de estudar e notar minha progressão, mesmo que de forma lenta.
 
-Fora dos estudos, gosto bastante de jogar jogos competitivos, indies e souls. Ouvir músicas e conversar com o meu cachorro chamado Bob (Que é um excelente ouvindo, por sinal) 🔥
+Fora dos estudos, gosto bastante de jogar jogos competitivos, indies e souls. Ouvir músicas e conversar com o meu cachorro chamado Bob (Que é um excelente ouvinte, por sinal) 🔥
 
 "Não vou recuar, vou seguir em frente, como um centopéia"
 - Ken Kaneki
