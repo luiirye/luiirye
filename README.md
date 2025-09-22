@@ -7,7 +7,7 @@
 </p>
 
 ---
-Sou um estudante de Engenharia de Computação, cursando o 8º Semestre bacharelado. 
+Sou um simples estudante, cursando 8º semestre de Bacharelado em Engenharia de Computação. 
 
 Sou uma pessoa simples, gosto de rir e conversar com amigos e colegas, buscando sempre um ambiente amigável. Gosto de estudar e notar minha progressão, mesmo que de forma lenta.
 
@@ -17,7 +17,7 @@ Fora dos estudos, gosto bastante de jogar jogos competitivos, indies e souls. Ou
 - Ken Kaneki
 ---
 
-- 📫 Me mande uma mensagem no [X](https://x.com/lulufelp) ou por e-mail [email](mailto:borg.esluii01645@gmail.com) 
+- 📫 Me mande uma mensagem no [X](https://x.com/lulufelp) ou por [e-mail](mailto:borg.esluii01645@gmail.com) 
 
 ---
 
