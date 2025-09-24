@@ -7,11 +7,9 @@
 </p>
 
 ---
-Sou um simples estudante, cursando 8º semestre de Bacharelado em Engenharia de Computação. 
+Estudante de Engenharia de Computação, procurando desenvolver e aprender mais sobre programação.
 
-Sou uma pessoa simples, gosto de rir e conversar com amigos e colegas, buscando sempre um ambiente amigável. Gosto de estudar e notar minha progressão, mesmo que de forma lenta.
-
-Fora dos estudos, gosto bastante de jogar jogos competitivos, indies e souls. Ouvir músicas e conversar com o meu cachorro chamado Bob (Que é um excelente ouvinte, por sinal) 🔥
+Gosto de ler mangás, estudar (Quando possível pois sou muito avoado e distraído), jogar, ouvir músicas e tomar um café quente.
 
 "Não vou recuar, vou seguir em frente, como um centopéia"
 - Ken Kaneki
