@@ -8,7 +8,7 @@
 
 ---
 
-Estudante de Engenharia de Computação em constante aprendizado na área de desemvolvimento e programação.
+Estudante de Engenharia de Computação em constante aprendizado na área de desenvolvimento e programação.
 
 ---
 
