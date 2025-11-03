@@ -7,12 +7,9 @@
 </p>
 
 ---
-Estudante de Engenharia de Computação, procurando desenvolver e aprender mais sobre programação.
 
-Gosto de ler mangás, estudar (Quando possível pois sou muito avoado e distraído), jogar, ouvir músicas e tomar um café quente.
+Estudante de Engenharia de Computação em constante aprendizado na área de desemvolvimento e programação.
 
-"Não vou recuar, vou seguir em frente, como um centopéia"
-- Ken Kaneki
 ---
 
 - 📫 Me mande uma mensagem no [X](https://x.com/lulufelp) ou por [e-mail](mailto:borg.esluii01645@gmail.com) 
