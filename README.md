@@ -8,7 +8,7 @@
 
 ---
 
-Estudante de Engenharia de Computação em constante aprendizado na área de desenvolvimento e programação.
+Sou estudante de Engenharia de Computação pela UNIDERP. Aqui neste perfil, irei salvar meus projetos das disciplinas da faculdade, projetos pessoais e exercícios praticados para aprofundar minhas habilidades e conhecimento em programação.
 
 ---
 
