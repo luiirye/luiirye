@@ -2,17 +2,19 @@
 
 ---
 
-## Sobre mim | About me
+##  👋 Sobre mim | About me 👋
 
-🇧🇷
+🇧🇷 <br>
 Meu nome é Luis Felipe, estudante de Engenharia de Computação na Uniderp. Interessado em **tecnologia** e apaixonado por **automação e lógica**, com foco em evoluir constantemente como desenvolvedor.
 
-🇺🇸
+<br>
+
+🇺🇸 <br>
 My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in **technology** and passionate about **automation and logic**, always looking for opportunities to grow as a developer.
 
 ---
 
-## Curiosidades sobre mim
+## 💻 Curiosidades sobre mim 💻
 
 - ♟️ **Gosto de praticar lógica de programação**
 - ☕ **Amante de café**
@@ -23,7 +25,7 @@ My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in
 
 ---
 
-## Tecnologias em desenvolvimento
+## 🛠️ Tecnologias em desenvolvimento 🛠️
 
 <div align="center">
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -37,11 +39,19 @@ My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in
 
 ---
 
-## Experiências
+##  💻 Experiências 💻 
 
 **Estagiário no Núcleo de Tecnologia Jurídica — LPADV**
 Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico, aprimorando habilidades com lógica, linguagens modernas e frameworks web.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&layout=compact&theme=dark)
+
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg)
+
+---
+
+<p align="center">
+  <i>Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore, você não perceberá toda a floresta</i>
+</p>
