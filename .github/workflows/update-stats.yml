@@ -24,36 +24,21 @@ jobs:
           cd github-readme-stats
           npm install
 
-      - name: Generate Stats SVG
+      - name: Start server and generate SVGs
         run: |
           cd github-readme-stats
-          node -e "
-          const { renderStatsCard } = require('./src/cards/stats-card.js');
-          const { fetchStats } = require('./src/fetchers/stats-fetcher.js');
-          const fs = require('fs');
+          node api/index.js &
+          sleep 5
 
-          fetchStats('luiirye', '${{ secrets.STATS_TOKEN }}').then(stats => {
-            const svg = renderStatsCard(stats, { theme: 'github_dark', hide_border: true, show_icons: true });
-            fs.mkdirSync('../profile', { recursive: true });
-            fs.writeFileSync('../profile/stats.svg', svg);
-            console.log('stats.svg gerado!');
-          }).catch(console.error);
-          "
+          mkdir -p ../profile
 
-      - name: Generate Languages SVG
-        run: |
-          cd github-readme-stats
-          node -e "
-          const { renderTopLanguages } = require('./src/cards/top-languages-card.js');
-          const { fetchTopLanguages } = require('./src/fetchers/top-languages-fetcher.js');
-          const fs = require('fs');
+          curl "http://localhost:9000/api?username=luiirye&theme=github_dark&hide_border=true&show_icons=true" \
+            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
+            -o ../profile/stats.svg
 
-          fetchTopLanguages('luiirye', '${{ secrets.STATS_TOKEN }}').then(langs => {
-            const svg = renderTopLanguages(langs, { theme: 'github_dark', hide_border: true, layout: 'donut' });
-            fs.writeFileSync('../profile/top-langs.svg', svg);
-            console.log('top-langs.svg gerado!');
-          }).catch(console.error);
-          "
+          curl "http://localhost:9000/api/top-langs?username=luiirye&theme=github_dark&hide_border=true&layout=donut" \
+            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
+            -o ../profile/top-langs.svg
 
       - name: Commit and push
         run: |
