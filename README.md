@@ -23,26 +23,28 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 
 ## 💻 Curiosidades sobre mim 💻
 
-- ♟️ **Gosto de praticar lógica de programação**
-- ☕ **Amante de café**
-- 🎵 **Apreciador de música (bastante música)**
-- 🎮 **Jogador de Valorant e Elden Ring nas horas vagas**
-- ⚙️ **Bastante curioso em entender como as coisas funcionam**
-- 🧠 **Fascinado por fluxo mental e desafios de lógica**
+<div>
+  - ♟️ **Gosto de praticar lógica de programação**
+  - ☕ **Amante de café**
+  - 🎵 **Apreciador de música (bastante música)**
+  - 🎮 **Jogador de Valorant e Elden Ring nas horas vagas**
+  - ⚙️ **Bastante curioso em entender como as coisas funcionam**
+  - 🧠 **Fascinado por fluxo mental e desafios de lógica**
+</div>
 
 ---
 
 ## 🛠️ Ferramentas 🛠️
 
-<div>
-  <img align="center" alt="vscode" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>      <!-- VS Code -->
-  <img align="center" alt="pycharm" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>  <!-- PyCharm -->
-  <img align="center" alt="git" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>               <!-- Git -->
-  <img align="center" alt="github" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>     <!-- GitHub -->
-  <img align="center" alt="notion" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" /></a>     <!-- Notion -->
-  <img align="center" alt="obsidian" width="35" height="35"  src="https://obsidian.md/favicon.ico" /></a>                                                 <!-- Obsidian -->
-  <img align="center" alt="claude" width="35" height="35"  src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" /></a>                         <!-- Claude -->
-  <img align="center" alt="notebooklm" width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/></a>           <!-- NotebookLM -->
+<div align="center">
+  <img align="center" alt="vscode" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>            <!-- VS Code -->
+  <img align="center" alt="pycharm" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>        <!-- PyCharm -->
+  <img align="center" alt="git" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>                     <!-- Git -->
+  <img align="center" alt="github" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>           <!-- GitHub -->
+  <img align="center" alt="notion" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" /></a>           <!-- Notion -->
+  <img align="center" alt="obsidian" width="35" height="35"  src="https://obsidian.md/favicon.ico" /></a>                                                       <!-- Obsidian -->
+  <img align="center" alt="claude" width="35" height="35"  src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" /></a>                               <!-- Claude -->
+  <img align="center" alt="notebooklm" width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/></a>                 <!-- NotebookLM -->
 </div>
 
 ---
@@ -64,22 +66,6 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 
 ## 🌪️ Stats 🌪️
 
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=luiirye&show_icons=true&theme=github_dark&hide_border=true" />
-      <br/>
-      <img src="https://streak-stats.demolab.com?user=luiirye&theme=github_dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&layout=donut&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -94,6 +80,8 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/552106254189854722) <!-- Discord -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com) <!-- LinkedIn -->
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:borg.esluii01645@gmail.com) <!-- Email -->
+
+---
 
 <p align="center">
   <i>Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore, você não perceberá toda a floresta</i>
