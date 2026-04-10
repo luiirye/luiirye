@@ -35,38 +35,14 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 ## 🛠️ Ferramentas 🛠️
 
 <div>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img align="center" alt="vscode" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </a>
-  <!-- PyCharm -->
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img align="center" alt="pycharm" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img align="center" alt="git" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img align="center" alt="github" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  <!-- Notion -->
-  <a href="https://www.notion.so/" target="_blank">
-    <img align="center" alt="notion" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
-  </a>
-  <!-- Obsidian -->
-  <a href="https://obsidian.md/" target="_blank">
-    <img align="center" alt="obsidian" width="35" height="35"  src="https://obsidian.md/favicon.ico" />
-  </a>
-  <!-- Claude -->
-  <a href="https://claude.ai/" target="_blank">
-    <img align="center" alt="claude" width="35" height="35"  src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" />
-  </a>
-  <!-- NotebookLM -->
-  <a href="https://notebooklm.google.com/" target="_blank">
-    <img align="center" alt="notebooklm" width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/>
-  </a>
+  <img align="center" alt="vscode" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>      <!-- VS Code -->
+  <img align="center" alt="pycharm" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></a>  <!-- PyCharm -->
+  <img align="center" alt="git" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>               <!-- Git -->
+  <img align="center" alt="github" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>     <!-- GitHub -->
+  <img align="center" alt="notion" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" /></a>     <!-- Notion -->
+  <img align="center" alt="obsidian" width="35" height="35"  src="https://obsidian.md/favicon.ico" /></a>                                                 <!-- Obsidian -->
+  <img align="center" alt="claude" width="35" height="35"  src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" /></a>                         <!-- Claude -->
+  <img align="center" alt="notebooklm" width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/></a>           <!-- NotebookLM -->
 </div>
 
 ---
@@ -74,28 +50,36 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 ## 🛠️ Tecnologias em desenvolvimento 🛠️
 
 <div align="center">
-  <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <!-- Java --> 
-  <img align="center" alt="Cplusplus" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
-  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <!-- HTML -->
-  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <!-- CSS -->
-  <img align="center" alt="JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <!-- JavaScript -->
-  <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <!-- Python -->
-  <img align="center" alt="Django" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/> <!-- Django-->
-  <img align="center" alt="Selenium" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>><!-- Selenium -->
+  <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">                        <!-- Java --> 
+  <img align="center" alt="Cplusplus" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">         <!-- C++ -->
+  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">                      <!-- HTML -->
+  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">                         <!-- CSS -->
+  <img align="center" alt="JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">              <!-- JavaScript -->
+  <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">                  <!-- Python -->
+  <img align="center" alt="Django" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>             <!-- Django-->
+  <img align="center" alt="Selenium" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>    <!-- Selenium -->
 </div>
 
 ---
 
 ## 🌪️ Stats 🌪️
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiirye&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=luiirye&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=luiirye&show_icons=true&theme=github_dark&hide_border=true" />
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=luiirye&theme=github_dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&layout=donut&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
