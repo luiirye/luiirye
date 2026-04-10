@@ -87,13 +87,13 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 
 ## 📧 Minhas redes 📧
 
-<div align="center">
-  ![align Visitors](https://komarev.com/ghpvc/?username=luiirye&label=VISITORS&color=0e75b6&style=flat) <!-- Visitantes -->
-  [![X Badge](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/lulufelp)<!-- X -->
-  [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/552106254189854722) <!-- Discord -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com) <!-- LinkedIn -->
-  [![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:borg.esluii01645@gmail.com) <!-- Email -->
-</div>
+
+![align Visitors](https://komarev.com/ghpvc/?username=luiirye&label=VISITORS&color=0e75b6&style=flat) <!-- Visitantes -->
+[![X Badge](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/lulufelp)<!-- X -->
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/552106254189854722) <!-- Discord -->
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com) <!-- LinkedIn -->
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:borg.esluii01645@gmail.com) <!-- Email -->
+
 
 ---
 
