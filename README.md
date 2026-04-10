@@ -14,6 +14,13 @@ My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in
 
 ---
 
+##  💻 Experiências 💻 
+
+**Estagiário no Núcleo de Tecnologia Jurídica — LPADV**
+Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico, aprimorando habilidades com lógica, linguagens modernas e frameworks web.
+
+---
+
 ## 💻 Curiosidades sobre mim 💻
 
 - ♟️ **Gosto de praticar lógica de programação**
@@ -25,47 +32,40 @@ My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in
 
 ---
 
-## Ferramentas Utilizadas
+## 🛠️ Ferramentas 🛠️
 
 <div>
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+    <img align="center" alt="vscode" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
-
   <!-- PyCharm -->
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>
+    <img align="center" alt="pycharm" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </a>
-
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+    <img align="center" alt="git" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
-
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="35" height="35"/>
+    <img align="center" alt="github" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-
   <!-- Notion -->
   <a href="https://www.notion.so/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="notion" width="35" height="35"/>
+    <img align="center" alt="notion" width="35" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   </a>
-
   <!-- Obsidian -->
   <a href="https://obsidian.md/" target="_blank">
-    <img src="https://obsidian.md/favicon.ico" alt="obsidian" width="35" height="35"/>
+    <img align="center" alt="obsidian" width="35" height="35"  src="https://obsidian.md/favicon.ico" />
   </a>
-
   <!-- Claude -->
   <a href="https://claude.ai/" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" alt="claude" width="35" height="35"/>
+    <img align="center" alt="claude" width="35" height="35"  src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" />
   </a>
-
   <!-- NotebookLM -->
   <a href="https://notebooklm.google.com/" target="_blank">
-    <img src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com" alt="notebooklm" width="35" height="35"/>
+    <img align="center" alt="notebooklm" width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/>
   </a>
 </div>
 
@@ -86,29 +86,24 @@ My name is Luis Felipe, a Computer Engineering student at Uniderp. Interested in
 
 ---
 
-##  💻 Experiências 💻 
+## 🌪️ Stats 🌪️
 
-**Estagiário no Núcleo de Tecnologia Jurídica — LPADV**
-Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico, aprimorando habilidades com lógica, linguagens modernas e frameworks web.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiirye&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=luiirye&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
-
-## Stats
-
-![](./profile/stats.svg)
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=luiirye&theme=material-palenight&hide_border=false" alt="luiirye" /></p>
-
-![](./profile/top-langs.svg)
-
-![](./profile/trophy.svg)
-
 
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
 ---
 
-## Minhas redes
+## Minhas redes 
 
 ![Visitors](https://komarev.com/ghpvc/?username=luiirye&label=VISITORS&color=0e75b6&style=flat) <!-- Visitantes -->
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/lulufelp)<!-- X -->
