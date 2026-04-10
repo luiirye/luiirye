@@ -24,12 +24,12 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 ## 💻 Curiosidades sobre mim 💻
 
 <div>
-  - ♟️ **Gosto de praticar lógica de programação**
-  - ☕ **Amante de café**
-  - 🎵 **Apreciador de música (bastante música)**
-  - 🎮 **Jogador de Valorant e Elden Ring nas horas vagas**
-  - ⚙️ **Bastante curioso em entender como as coisas funcionam**
-  - 🧠 **Fascinado por fluxo mental e desafios de lógica**
+  - ♟️ **Gosto de praticar lógica de programação**<br>
+  - ☕ **Amante de café**<br>
+  - 🎵 **Apreciador de música (bastante música)**<br>
+  - 🎮 **Jogador de Valorant e Elden Ring nas horas vagas**<br>
+  - ⚙️ **Bastante curioso em entender como as coisas funcionam**<br>
+  - 🧠 **Fascinado por fluxo mental e desafios de lógica**<br>
 </div>
 
 ---
