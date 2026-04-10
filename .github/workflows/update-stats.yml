@@ -11,34 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "18"
-
-      - name: Clone github-readme-stats
-        run: git clone https://github.com/anuraghazra/github-readme-stats.git
-
-      - name: Install dependencies
+      - name: Generate SVGs
         run: |
-          cd github-readme-stats
-          npm install
+          mkdir -p profile
 
-      - name: Start server and generate SVGs
-        run: |
-          cd github-readme-stats
-          node api/index.js &
-          sleep 5
+          curl -o profile/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=luiirye&theme=github_dark&hide_border=true&show_icons=true"
 
-          mkdir -p ../profile
-
-          curl "http://localhost:9000/api?username=luiirye&theme=github_dark&hide_border=true&show_icons=true" \
-            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
-            -o ../profile/stats.svg
-
-          curl "http://localhost:9000/api/top-langs?username=luiirye&theme=github_dark&hide_border=true&layout=donut" \
-            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
-            -o ../profile/top-langs.svg
+          curl -o profile/top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs?username=luiirye&theme=github_dark&hide_border=true&layout=donut"
 
       - name: Commit and push
         run: |
