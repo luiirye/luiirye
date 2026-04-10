@@ -66,18 +66,10 @@ Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico,
 
 ## 🌪️ Stats 🌪️
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="./profile/stats.svg" />
-      </td>
-      <td>
-        <img src="./profile/top-langs.svg" />
-      </td>
-    </tr>
-  </table>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiirye)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiirye&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiirye&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiirye&show_icons=true&theme=material)
 
 ---
 
