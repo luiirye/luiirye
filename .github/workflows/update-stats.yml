@@ -1,0 +1,64 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Clone github-readme-stats
+        run: git clone https://github.com/anuraghazra/github-readme-stats.git
+
+      - name: Install dependencies
+        run: |
+          cd github-readme-stats
+          npm install
+
+      - name: Generate Stats SVG
+        run: |
+          cd github-readme-stats
+          node -e "
+          const { renderStatsCard } = require('./src/cards/stats-card.js');
+          const { fetchStats } = require('./src/fetchers/stats-fetcher.js');
+          const fs = require('fs');
+
+          fetchStats('luiirye', '${{ secrets.STATS_TOKEN }}').then(stats => {
+            const svg = renderStatsCard(stats, { theme: 'github_dark', hide_border: true, show_icons: true });
+            fs.mkdirSync('../profile', { recursive: true });
+            fs.writeFileSync('../profile/stats.svg', svg);
+            console.log('stats.svg gerado!');
+          }).catch(console.error);
+          "
+
+      - name: Generate Languages SVG
+        run: |
+          cd github-readme-stats
+          node -e "
+          const { renderTopLanguages } = require('./src/cards/top-languages-card.js');
+          const { fetchTopLanguages } = require('./src/fetchers/top-languages-fetcher.js');
+          const fs = require('fs');
+
+          fetchTopLanguages('luiirye', '${{ secrets.STATS_TOKEN }}').then(langs => {
+            const svg = renderTopLanguages(langs, { theme: 'github_dark', hide_border: true, layout: 'donut' });
+            fs.writeFileSync('../profile/top-langs.svg', svg);
+            console.log('top-langs.svg gerado!');
+          }).catch(console.error);
+          "
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add profile/
+          git diff --cached --quiet || git commit -m "Update stats"
+          git push
