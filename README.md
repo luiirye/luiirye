@@ -95,9 +95,11 @@
   <h3>Contribution Streak</h3>
   <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
 </div>
+---
 
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
+----
 <div align = "center">
   <h2>Contatos</h2>
   <a href="https://x.com/lulufelp">                                                       <img src="colored/twitter-x.svg" alt="X" /></a>
