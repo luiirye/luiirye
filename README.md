@@ -42,7 +42,7 @@
 
 <hr>
 
-<div>
+<div align = "center">
   <h2>Ferramentas e Tecnologias</h2>
 
   <h3>Tecnologias</h3>
@@ -96,11 +96,7 @@
   <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
 </div>
 
-<hr>
-  <div align="center">
-    ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) 
-  </div>
-<hr>
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
 <div align = "center">
   <h2>Contatos</h2>
