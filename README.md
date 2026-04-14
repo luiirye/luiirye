@@ -95,30 +95,30 @@
 
   <h3>Ferramentas</h3>
   <div align="center">
-    <img align="center" alt="vscode"          src="new-icons/VSCode-Dark.svg" /> 
-    <img align="center" alt="pycharm"         src="new-icons/PyCharm-Dark.svg" /> 
-    <img align="center" alt="Mysql"          src="new-icons/MySQL-Dark.svg" /> 
-    <img align="center" alt="obsidian"        src="new-icons/Obsidian-Dark.svg" /> 
-    <img align="center" alt="notion"          src="new-icons/Notion-Dark.svg" />
+    <img align="center" alt="vscode"          width="50" height="50" src="new-icons/VSCode-Dark.svg" /> 
+    <img align="center" alt="pycharm"         width="50" height="50" src="new-icons/PyCharm-Dark.svg" /> 
+    <img align="center" alt="mysql"          width="50" height="50" src="new-icons/MySQL-Dark.svg" /> 
+    <img align="center" alt="obsidian"        width="50" height="50" src="new-icons/Obsidian-Dark.svg" /> 
+    <img align="center" alt="notion"          width="50" height="50" src="new-icons/Notion-Dark.svg" />
   </div>
   
   <h3>Tecnologias</h3>
   <div align="center">
-    <img align="center" alt="git"             src="new-icons/Git.svg" /> 
-    <img align="center" alt="github"          src="new-icons/Github-Dark.svg" /> 
-    <img align="center" alt="Java"            src="new-icons/Java-Dark.svg"> 
-    <img align="center" alt="Cplusplus"       src="new-icons/CPP.svg"> 
-    <img align="center" alt="C"               src="new-icons/C.svg"> 
-    <img align="center" alt="HTML"            src="new-icons/HTML.svg"> 
-    <img align="center" alt="CSS"             src="new-icons/CSS.svg"> 
-    <img align="center" alt="JS"              src="new-icons/JavaScript.svg"> 
-    <img align="center" alt="Python"          src="new-icons/Python-Dark.svg"> 
+    <img align="center" alt="git"             width="50" height="50" src="new-icons/Git.svg" /> 
+    <img align="center" alt="github"          width="50" height="50" src="new-icons/Github-Dark.svg" /> 
+    <img align="center" alt="Java"            height="50" width="50" src="new-icons/Java-Dark.svg"> 
+    <img align="center" alt="Cplusplus"       height="50" width="50" src="new-icons/CPP.svg"> 
+    <img align="center" alt="C"               height="50" width="50" src="new-icons/C.svg"> 
+    <img align="center" alt="HTML"            height="50" width="50" src="new-icons/HTML.svg"> 
+    <img align="center" alt="CSS"             height="50" width="50" src="new-icons/CSS.svg"> 
+    <img align="center" alt="JS"              height="50" width="50" src="new-icons/JavaScript.svg"> 
+    <img align="center" alt="Python"          height="50" width="50" src="new-icons/Python-Dark.svg"> 
   </div>
 
   <h3>Frameworks</h3>
   <div align="center">
-    <img align="center" alt="Django"          src="new-icons/Django.svg"/> 
-    <img align="center" alt="Selenium"        src="new-icons/Selenium.svg"/> 
+    <img align="center" alt="Django"          height="50" width="50" src="new-icons/Django.svg"/> 
+    <img align="center" alt="Selenium"        height="50" width="50" src="new-icons/Selenium.svg"/> 
   </div>
 
 </div>
