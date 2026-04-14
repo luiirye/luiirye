@@ -46,53 +46,6 @@
 <div align = "center">
   <h2>Ferramentas e Tecnologias</h2>
 
-  <h3>Tecnologias</h3>
-  <div align="center">
-    <img align="center" alt="git"             width="35" height="35" src="icons/git/git-plain.svg" /> <!-- OK -->
-    <img align="center" alt="github"          width="35" height="35" src="icons/github/github-original.svg" /> <!-- OK -->
-    <img align="center" alt="Java"            height="35" width="35" src="icons/java/java-plain.svg"> <!-- OK -->
-    <img align="center" alt="Cplusplus"       height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- OK -->
-    <img align="center" alt="C"               height="35" width="35" src="icons/c/c-original.svg"> <!-- OK -->
-    <img align="center" alt="HTML"            height="35" width="35" src="icons/html5/html5-plain.svg"> <!-- OK -->
-    <img align="center" alt="CSS"             height="35" width="35" src="icons/css3/css3-plain.svg"> <!-- OK -->
-    <img align="center" alt="JS"              height="35" width="35" src="icons/javascript/javascript-plain.svg"> <!-- OK -->
-    <img align="center" alt="Python"          height="35" width="35" src="icons/python/python-original.svg"> <!-- OK -->
-  </div>
-
-  <h3>Frameworks</h3>
-  <div align="center">
-    <img align="center" alt="Django"          height="35" width="35" src="icons/django/django-plain.svg"/> <!-- OK -->
-    <img align="center" alt="Selenium"        height="35" width="35" src="icons/selenium/selenium-original.svg"/> <!-- OK -->
-  </div>
-
-  <h3>Ferramentas</h3>
-  <div align="center">
-    <img align="center" alt="vscode"          width="35" height="35" src="icons/vscode/vscode-original.svg" /> <!-- OK -->
-    <img align="center" alt="pycharm"         width="35" height="35" src="icons/pycharm/pycharm-original.svg" /> <!-- OK -->
-    <img align="center" alt="sqlite"          width="35" height="35" src="icons/sqlite/sqlite-original.svg" /> <!-- OK -->
-    <img align="center" alt="obsidian"        width="35" height="35" src="icons/obsidian/favicon.ico" /> <!-- OK -->
-    <img align="center" alt="notion"          width="35" height="35" src="icons/notion/notion-plain.svg" /> <!-- OK -->
-    <img align="center" alt="claude"          width="35" height="35" src="icons/claude/claude-ai-icon.svg" /> <!-- OK -->
-    <img align="center" alt="notebooklm"      width="35" height="35" src="icons/notebooklm/notebooklm-icon.svg"/> <!-- OK -->
-  </div>
-</div>
-
-<hr>
-
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
-
-<hr>
-
-## TESTE
-<div align = "center">
-  <h2>Ferramentas e Tecnologias</h2>
-
   <h3>Ferramentas</h3>
   <div align="center">
     <img align="center" alt="vscode"          width="50" height="50" src="new-icons/VSCode-Dark.svg" /> 
@@ -100,6 +53,8 @@
     <img align="center" alt="mysql"          width="50" height="50" src="new-icons/MySQL-Dark.svg" /> 
     <img align="center" alt="obsidian"        width="50" height="50" src="new-icons/Obsidian-Dark.svg" /> 
     <img align="center" alt="notion"          width="50" height="50" src="new-icons/Notion-Dark.svg" />
+    <img align="center" alt="powershel"       witdh="50" height="50" src="new-icons/Powershell-Dark.svg"/>
+    <img align="center" alt="claude"          witdh="50" height="50" src="new-icons/claude-ai-icon.svg"/>
   </div>
   
   <h3>Tecnologias</h3>
@@ -140,12 +95,10 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td width="100%" align="center" colspan="2">
         <h3>Contribuições</h3>
         <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
       </td>
-      <td width="50%">
-        </td>
     </tr>
   </table>
 </div>
@@ -155,8 +108,6 @@
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
 ---
-
-<hr>
 
 <div align="center">
   <h2>Contatos</h2>
