@@ -43,7 +43,7 @@
 
 <hr>
 
-<div>
+<div align = "center">
   <h2>Ferramentas e Tecnologias</h2>
 
   <h3>Tecnologias</h3>
@@ -78,12 +78,12 @@
 <hr>
 
 <div align="center">
-  <h2>Statistics</h2>
+  <h2>Estatísticas</h2>
 
-  <table>
+ <table>
     <tr>
       <td width="50%" align="center">
-        <h3>Most Used Languages</h3>
+        <h3>Linguagens mais usadas</h3>
         <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=luiirye&layout=compact&hide_border=true&bg_color=161616&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
@@ -91,11 +91,18 @@
         <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luiirye&show_icons=true&hide_border=true&bg_color=161616&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Contribuições</h3>
+        <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
+      </td>
+      <td width="50%">
+        </td>
+    </tr>
   </table>
-
-  <h3>Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
 </div>
+
+----
 
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
@@ -104,12 +111,13 @@
 
 <hr>
 
-<div>
-    <h2>Contatos</h2>
-      <a href="https://x.com/lulufelp">                                                       <img src="colored/twitter-x.svg"  alt="X" /></a>
-      <a href="https://discord.com/users/552106254189854722">                                 <img src="colored/discord.svg"    alt="Discord" /></a>
-      <a href="https://www.linkedin.com">                                                     <img src="colored/linkedin.svg"   alt="LinkedIn" /></a>
-      <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=ec407bf197834631">  <img src="colored/spotify.svg"    alt="Spotify" /></a>
+<div align="center">
+  <h2>Contatos</h2>
+  
+  <a href="https://x.com/lulufelp">                                                                   <img src="colored/twitter-x.svg"  alt="X"         width="30"/></a>
+  &nbsp;&nbsp; <a href="https://discord.com/users/552106254189854722">                                <img src="colored/discord.svg"    alt="Discord"   width="30"/></a>
+  &nbsp;&nbsp; <a href="https://www.linkedin.com">                                                    <img src="colored/linkedin.svg"   alt="LinkedIn"  width="30" /></a>
+  &nbsp;&nbsp; <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=ec407bf197834631"> <img src="colored/spotify.svg"    alt="Spotify"   width="30" /></a>
 </div>
 
 <hr>
