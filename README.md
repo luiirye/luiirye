@@ -48,31 +48,32 @@
 
   <h3>Tecnologias</h3>
   <div align="center">
-    <img align="center" alt="git"             width="35" height="35" src="icons/git/git-plain.svg" />
-    <img align="center" alt="github"          width="35" height="35" src="icons/github/github-original.svg" />
-    <img align="center" alt="notion"          width="35" height="35" src="icons/notion/notion-plain.svg" />
-    <img align="center" alt="obsidian"        width="35" height="35" src="https://obsidian.md/favicon.ico" />
-    <img align="center" alt="claude"          width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=claude.ai" />
-    <img align="center" alt="notebooklm"      width="35" height="35" src="https://www.google.com/s2/favicons?sz=64&domain=notebooklm.google.com"/>
-    <img align="center" alt="Java"            height="35" width="35" src="icons/java/java-plain.svg">
-    <img align="center" alt="Cplusplus"       height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="HTML"            height="35" width="35" src="icons/html5/html5-plain.svg">
-    <img align="center" alt="CSS"             height="35" width="35" src="icons/css3/css3-plain.svg">
-    <img align="center" alt="JS"              height="35" width="35" src="icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python"          height="35" width="35" src="icons/python/python-plain.svg">
+    <img align="center" alt="git"             width="35" height="35" src="icons/git/git-plain.svg" /> <!-- OK -->
+    <img align="center" alt="github"          width="35" height="35" src="icons/github/github-original.svg" /> <!-- OK -->
+    <img align="center" alt="Java"            height="35" width="35" src="icons/java/java-plain.svg"> <!-- OK -->
+    <img align="center" alt="Cplusplus"       height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- OK -->
+    <img align="center" alt="C"               height="35" width="35" src="icons/c/c-original.svg"> <!-- OK -->
+    <img align="center" alt="HTML"            height="35" width="35" src="icons/html5/html5-plain.svg"> <!-- OK -->
+    <img align="center" alt="CSS"             height="35" width="35" src="icons/css3/css3-plain.svg"> <!-- OK -->
+    <img align="center" alt="JS"              height="35" width="35" src="icons/javascript/javascript-plain.svg"> <!-- OK -->
+    <img align="center" alt="Python"          height="35" width="35" src="icons/python/python-original.svg"> <!-- OK -->
   </div>
 
   <h3>Frameworks</h3>
   <div align="center">
-    <img align="center" alt="Django"          height="35" width="35" src="icons/django/django-plain.svg"/>
-    <img align="center" alt="Selenium"        height="35" width="35" src="icons/selenium/selenium-original.svg"/>
+    <img align="center" alt="Django"          height="35" width="35" src="icons/django/django-plain.svg"/> <!-- OK -->
+    <img align="center" alt="Selenium"        height="35" width="35" src="icons/selenium/selenium-original.svg"/> <!-- OK -->
   </div>
 
   <h3>Ferramentas</h3>
   <div align="center">
-    <img align="center" alt="vscode"          width="35" height="35" src="icons/vscode/vscode-plain.svg" />
-    <img align="center" alt="pycharm"         width="35" height="35" src="icons/pycharm/pycharm-plain.svg" />
-    <img align="center" alt="sqlite"          width="35" height="35" src="icons/sqlite/sqlite-plain.svg" />
+    <img align="center" alt="vscode"          width="35" height="35" src="icons/vscode/vscode-original.svg" /> <!-- OK -->
+    <img align="center" alt="pycharm"         width="35" height="35" src="icons/pycharm/pycharm-original.svg" /> <!-- OK -->
+    <img align="center" alt="sqlite"          width="35" height="35" src="icons/sqlite/sqlite-original.svg" /> <!-- OK -->
+    <img align="center" alt="obsidian"        width="35" height="35" src="icons/obsidian/favicon.ico" /> <!-- OK -->
+    <img align="center" alt="notion"          width="35" height="35" src="icons/notion/notion-plain.svg" /> <!-- OK -->
+    <img align="center" alt="claude"          width="35" height="35" src="icons/claude/claude-ai-icon.svg" /> <!-- OK -->
+    <img align="center" alt="notebooklm"      width="35" height="35" src="icons/notebooklm/notebooklm-icon.svg"/> <!-- OK -->
   </div>
 </div>
 
