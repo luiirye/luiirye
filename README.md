@@ -79,6 +79,93 @@
 
 <hr>
 
+<div>
+
+## TESTE
+
+<div>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white">
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+</div>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</a>
+<div>
+
+</div>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
+
+<a href="https://obsidian.md/" target="_blank">
+  <img src="https://img.shields.io/badge/obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white">
+</a>
+
+<a href="https://www.notion.so/" target="_blank">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
+
+<a href="https://claude.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/claude-ai-000000?style=for-the-badge&logo=anthropic&logoColor=white">
+</a>
+
+<a href="https://notebooklm.google/" target="_blank">
+  <img src="https://img.shields.io/badge/notebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</a>
+<div>
+
+</div>
+
+</div>
+
+<hr>
+
 <div align="center">
   <h2>Estatísticas</h2>
 
@@ -104,12 +191,11 @@
   </table>
 </div>
 
-----
+---
 
 ![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
 
-----
-
+---
 
 <hr>
 
