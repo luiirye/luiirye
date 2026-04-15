@@ -37,7 +37,6 @@
     <li>🎮 <b>Jogos: Valorant, League of Legends, Dark Souls III, Elden ring, Osu</b></li>
     <li>⚙️ <b>Curioso em entender como as coisas funcionam</b></li>
     <li>🧠 <b>Fascinado por fluxo mental e desafios de lógica</b></li>
-    <li>🧠 <b>Intrapessoal</b></li>
   </ul>
 </div>
 
