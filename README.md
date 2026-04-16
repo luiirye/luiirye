@@ -7,18 +7,6 @@
 <div>
   <h2>Sobre mim | About me</h2>
   <p>
-    🇧🇷 <br>
-    Meu nome é <b>Luis Felipe</b>, estudante de Engenharia de Computação na Uniderp. Interessado em <b>tecnologia</b> e apaixonado por <b>automação e lógica</b>, com foco em evoluir constantemente como desenvolvedor.
-  </p>
-  <p>
-    🇺🇸 <br>
-    My name is <b>Luis Felipe</b>, a Computer Engineering student at Uniderp. Interested in <b>technology</b> and passionate about <b>automation and logic</b>, always looking for opportunities to grow as a developer.
-  </p>
-</div>
-
-<div>
-  <h2>Sobre mim | About me</h2>
-  <p>
     🇺🇸 <br>
     Computer Engineering student at <b>Uniderp</b>, focused on building practical solutions through <b>automation</b> and <b>software development</b>.  
     Interested in solving problems that require logical thinking, efficiency, and well-structured implementations.
