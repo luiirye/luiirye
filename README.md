@@ -16,27 +16,40 @@
   </p>
 </div>
 
-<hr>
-
 <div>
-  <h2>Experiências</h2>
+  <h2>Sobre mim | About me</h2>
   <p>
-    <b>Estagiário no Núcleo de Tecnologia Jurídica — LPADV</b><br>
-    Atuo no desenvolvimento e automação de soluções voltadas ao setor jurídico, aprimorando habilidades com lógica, linguagens modernas e frameworks web.
+    🇺🇸 <br>
+    Computer Engineering student at <b>Uniderp</b>, focused on building practical solutions through <b>automation</b> and <b>software development</b>.  
+    Interested in solving problems that require logical thinking, efficiency, and well-structured implementations.
+  </p>
+  <p>
+    🇧🇷 <br>
+    Estudante de Engenharia de Computação na <b>Uniderp</b>, com foco no desenvolvimento de soluções práticas por meio de <b>automação</b> e <b>software</b>.  
+    Interessado em resolver problemas que exigem raciocínio lógico, eficiência e implementações bem estruturadas.
   </p>
 </div>
 
 <hr>
 
 <div>
-  <h2>Curiosidades sobre mim</h2>
+  <h2>Experiência</h2>
+  <p>
+    <b>Estagiário — Núcleo de Tecnologia Jurídica (LPADV)</b><br>
+    Desenvolvimento e automação de soluções para o setor jurídico, com foco em otimização de processos e ganho de eficiência.  
+    Atuação com tecnologias web e criação de rotinas automatizadas para reduzir tarefas manuais.
+  </p>
+</div>
+
+<hr>
+
+<div>
+  <h2>Curiosidades</h2>
   <ul>
-    <li>♟️ <b>Gosto de praticar lógica de programação</b></li>
-    <li>☕ <b>Gosto de um bom café</b></li>
-    <li>🎵 <b>Ouço várias músicas diferentes</b></li>
-    <li>🎮 <b>Jogos: Valorant, League of Legends, Dark Souls III, Elden ring, Osu</b></li>
-    <li>⚙️ <b>Curioso em entender como as coisas funcionam</b></li>
-    <li>🧠 <b>Fascinado por fluxo mental e desafios de lógica</b></li>
+    <li> <b>Interesse em lógica de programação e resolução de problemas</b></li>
+    <li> <b>Curioso sobre como sistemas e tecnologias funcionam</b></li>
+    <li> <b>Gosto por desafios que exigem raciocínio e estratégia</b></li>
+    <li> <b>Interesse em automação e otimização de tarefas</b></li>
   </ul>
 </div>
 
