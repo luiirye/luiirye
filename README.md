@@ -46,7 +46,6 @@
 <div align = "center">
   <h2>Ferramentas e Tecnologias</h2>
 
-  <h3>Ferramentas</h3>
   <div align="center">
     <img align="center" alt="vscode"          width="50" height="50" src="new-icons/VSCode-Dark.svg" /> 
     <img align="center" alt="pycharm"         width="50" height="50" src="new-icons/PyCharm-Dark.svg" /> 
@@ -55,10 +54,6 @@
     <img align="center" alt="notion"          width="50" height="50" src="new-icons/Notion-Dark.svg" />
     <img align="center" alt="powershel"       witdh="50" height="50" src="new-icons/Powershell-Dark.svg"/>
     <img align="center" alt="claude"          witdh="50" height="50" src="new-icons/claude-ai-icon.svg"/>
-  </div>
-  
-  <h3>Tecnologias</h3>
-  <div align="center">
     <img align="center" alt="git"             width="50" height="50" src="new-icons/Git.svg" /> 
     <img align="center" alt="github"          width="50" height="50" src="new-icons/Github-Dark.svg" /> 
     <img align="center" alt="Java"            height="50" width="50" src="new-icons/Java-Dark.svg"> 
@@ -68,10 +63,6 @@
     <img align="center" alt="CSS"             height="50" width="50" src="new-icons/CSS.svg"> 
     <img align="center" alt="JS"              height="50" width="50" src="new-icons/JavaScript.svg"> 
     <img align="center" alt="Python"          height="50" width="50" src="new-icons/Python-Dark.svg"> 
-  </div>
-
-  <h3>Frameworks</h3>
-  <div align="center">
     <img align="center" alt="Django"          height="50" width="50" src="new-icons/Django.svg"/> 
     <img align="center" alt="Selenium"        height="50" width="50" src="new-icons/Selenium.svg"/> 
   </div>
