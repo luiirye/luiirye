@@ -53,14 +53,12 @@
     <img align="center" alt="obsidian"        width="45" height="45" src="new-icons/Obsidian-Dark.svg" /> 
     <img align="center" alt="notion"          width="45" height="45" src="new-icons/Notion-Dark.svg" />
     <img align="center" alt="powershel"       witdh="45" height="45" src="new-icons/Powershell-Dark.svg"/>
-    <br>
     <img align="center" alt="claude"          witdh="45" height="45" src="new-icons/claude-ai-icon.svg"/>
     <img align="center" alt="git"             width="45" height="45" src="new-icons/Git.svg" /> 
     <img align="center" alt="github"          width="45" height="45" src="new-icons/Github-Dark.svg" /> 
     <img align="center" alt="Java"            height="45" width="45" src="new-icons/Java-Dark.svg"> 
     <img align="center" alt="Cplusplus"       height="45" width="45" src="new-icons/CPP.svg"> 
     <img align="center" alt="C"               height="45" width="45" src="new-icons/C.svg"> 
-    <br>
     <img align="center" alt="HTML"            height="45" width="45" src="new-icons/HTML.svg"> 
     <img align="center" alt="CSS"             height="45" width="45" src="new-icons/CSS.svg"> 
     <img align="center" alt="JS"              height="45" width="45" src="new-icons/JavaScript.svg"> 
@@ -103,7 +101,7 @@
 ---
 
 <div align="center">
-  <h2>Contatos</h2>
+  <h2>Outras redes</h2>
   
   <a href="https://x.com/lulufelp">                                                                   <img src="colored/twitter-x.svg"  alt="X"         width="30"/></a>
   &nbsp;&nbsp; <a href="https://discord.com/users/552106254189854722">                                <img src="colored/discord.svg"    alt="Discord"   width="30"/></a>
