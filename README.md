@@ -78,17 +78,17 @@
     <tr>
       <td width="45%" align="center">
         <h3>Linguagens mais usadas</h3>
-        <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=luiirye&layout=compact&hide_border=true&bg_color=161616&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luiirye&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
       <td width="45%" align="center">
         <h3>GitHub Stats</h3>
-        <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=luiirye&show_icons=true&hide_border=true&bg_color=161616&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Luiirye&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td width="100%" align="center" colspan="2">
         <h3>Contribuições</h3>
-        <img src="https://streak-stats.demolab.com?user=luiirye&theme=dark&hide_border=true&background=161616&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Luiirye&theme=swift&hide_border=true" />
       </td>
     </tr>
   </table>
