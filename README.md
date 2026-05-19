@@ -1,49 +1,37 @@
-<div>
-  <img src="imgs/yutaokkotsurika.jpeg" alt="Yuta Okkotsu e Rika">
-</div>
+![Yuta Okkotsu e Rika](imgs/yutaokkotsurika.jpeg)
 
-<hr>
+---
 
-<div>
-  <h2>Sobre mim | About me</h2>
-  <p>
-    🇺🇸 <br>
-    Computer Engineering student at <b>Uniderp</b>, focused on building practical solutions through <b>automation</b> and <b>software development</b>.  
-    Interested in solving problems that require logical thinking, efficiency, and well-structured implementations.
-  </p>
-  <p>
-    🇧🇷 <br>
-    Estudante de Engenharia de Computação na <b>Uniderp</b>, com foco no desenvolvimento de soluções práticas por meio de <b>automação</b> e <b>software</b>.  
-    Interessado em resolver problemas que exigem raciocínio lógico, eficiência e implementações bem estruturadas.
-  </p>
-</div>
+## Sobre mim | About me
 
-<hr>
+🇺🇸  
+Computer Engineering student at **Uniderp**, focused on building practical solutions through **automation** and **software development**.  
+Interested in solving problems that require logical thinking, efficiency, and well-structured implementations.
 
-<div>
-  <h2>Experiência</h2>
-  <p>
-    <b>Estagiário — Núcleo de Tecnologia Jurídica (LPADV)</b><br>
-    Desenvolvimento e automação de soluções para o setor jurídico, com foco em otimização de processos e ganho de eficiência.  
-    Atuação com tecnologias web e criação de rotinas automatizadas para reduzir tarefas manuais.
-  </p>
-</div>
+🇧🇷  
+Estudante de Engenharia de Computação na **Uniderp**, com foco no desenvolvimento de soluções práticas por meio de **automação** e **software**.  
+Interessado em resolver problemas que exigem raciocínio lógico, eficiência e implementações bem estruturadas.
 
-<hr>
+---
 
-<div>
-  <h2>Curiosidades</h2>
-  <ul>
-    <li> <b>Interesse em lógica de programação e resolução de problemas</b></li>
-    <li> <b>Curioso sobre como sistemas e tecnologias funcionam</b></li>
-    <li> <b>Gosto por desafios que exigem raciocínio e estratégia</b></li>
-    <li> <b>Interesse em automação e otimização de tarefas</b></li>
-  </ul>
-</div>
+## Experiência
 
-<hr>
+**Estagiário — Núcleo de Tecnologia Jurídica (LPADV)**  
+Desenvolvimento e automação de soluções para o setor jurídico, com foco em otimização de processos e ganho de eficiência.  
+Atuação com tecnologias web e criação de rotinas automatizadas para reduzir tarefas manuais.
 
-<div align = "center">
+---
+
+## Curiosidades
+
+- **Interesse em lógica de programação e resolução de problemas**
+- **Curioso sobre como sistemas e tecnologias funcionam**
+- **Gosto por desafios que exigem raciocínio e estratégia**
+- **Interesse em automação e otimização de tarefas**
+
+---
+
+<div align="center">
   <h2>Ferramentas e Tecnologias</h2>
 
   <div align="center">
@@ -52,8 +40,8 @@
     <img align="center" alt="mysql"          width="45" height="45" src="new-icons/MySQL-Dark.svg" /> 
     <img align="center" alt="obsidian"        width="45" height="45" src="new-icons/Obsidian-Dark.svg" /> 
     <img align="center" alt="notion"          width="45" height="45" src="new-icons/Notion-Dark.svg" />
-    <img align="center" alt="powershel"       witdh="45" height="45" src="new-icons/Powershell-Dark.svg"/>
-    <img align="center" alt="claude"          witdh="45" height="45" src="new-icons/claude-ai-icon.svg"/>
+    <img align="center" alt="powershel"       width="45" height="45" src="new-icons/Powershell-Dark.svg"/>
+    <img align="center" alt="claude"          width="45" height="45" src="new-icons/claude-ai-icon.svg"/>
     <img align="center" alt="git"             width="45" height="45" src="new-icons/Git.svg" /> 
     <img align="center" alt="github"          width="45" height="45" src="new-icons/Github-Dark.svg" /> 
     <img align="center" alt="Java"            height="45" width="45" src="new-icons/Java-Dark.svg"> 
@@ -69,7 +57,7 @@
 
 </div>
 
-<hr>
+---
 
 <div align="center">
   <h2>Estatísticas</h2>
@@ -96,7 +84,7 @@
 
 ---
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg) <!-- pacman -->
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg)
 
 ---
 
@@ -109,7 +97,7 @@
   &nbsp;&nbsp; <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=ec457bf197834631"> <img src="colored/spotify.svg"    alt="Spotify"   width="30" /></a>
 </div>
 
-<hr>
+---
 
 <div align="center">
   <p><i>Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore, você não perceberá toda a floresta</i></p>
