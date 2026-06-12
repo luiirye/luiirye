@@ -18,8 +18,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Luiirye
-          color_scheme: dark
-
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-dark
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
