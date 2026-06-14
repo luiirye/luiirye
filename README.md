@@ -36,11 +36,6 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
     <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=luiirye&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
   </div>
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="94%" />
-  </div>
-
 </div>
 
 ---
@@ -64,3 +59,9 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 <div align="center">
   <p><i>"Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore, você não perceberá toda a floresta."</i></p>
 </div>
+
+---
+
+ <div align="center">
+    <img src="https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="94%" />
+  </div>
