@@ -14,12 +14,20 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Luiirye
-          color_scheme: dark
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar Pac-Man (Modo Escuro)
+        run: |
+          npm install -g pacman-contribution-graph
+          mkdir -p dist
+          pacman-contribution-graph --game pacman --platform github --username Luiirye --gameTheme github-dark --output dist/pacman-contribution-graph.svg
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
