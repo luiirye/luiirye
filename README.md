@@ -27,14 +27,14 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
 ---
 
-<div align="center">
+<div>
 
   <h2>GitHub Stats</h2>
 
   <div align="center">  
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=luiirye&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiirye&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=luiirye&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   </div>
 </div>
 
@@ -64,4 +64,4 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
  <div align="center">
     <img src="https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="94%" />
-  </div>
+</div>
