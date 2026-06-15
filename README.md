@@ -29,18 +29,39 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
 <div>
 
-  <h2>GitHub Stats</h2>
+  <h2 align="center">GitHub Stats</h2>
 
-  <div align="center">  
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+  <div>  
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <br>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+    <br>
     <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   </div>
 </div>
 
 ---
 
-<div align="center">
+<table border="0">
+  <tr>
+    <!-- Coluna da Esquerda: Seus 3 cards de estatísticas -->
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="100%" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="100%" />
+    </td>
+    <!-- Coluna da Direita: A sua imagem ilustrativa -->
+    <td width="50%" valign="top">
+      <img src="./imgs/reze_and_denji.wepb" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center>
 
   <h2>Outras redes</h2>
 
