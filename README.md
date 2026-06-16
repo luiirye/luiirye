@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./imgs/reze_denji_hug_beach.jpeg" alt="Yuta Okkotsu e Rika" width="100%" />
-</div>
-
----
-
 # Olá, eu sou o Luii! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
 
 Me chamo Luis Felipe (mas no GitHub e outras redes deixo como Luii), sou estudante de Engenharia de Computação. Estou constantemente estudando novas ferramentas e me aperfeiçoando, buscando me tornar um desenvolvedor competente.
@@ -26,31 +20,12 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 </div>
 
 ---
-
 <h2 align="center">GitHub Stats</h2>
-
-<table border="0">
-  <tr>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="100%" />
-    </td>
-    <td width="40%" valign="top" rowspan="3">
-      <img src="./imgs/reze_and_denji.webp" width="100%" />
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="100%" />
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="bottom">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="30%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="30%" />
+</div>
 
 ---
 
