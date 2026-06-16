@@ -22,9 +22,9 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 ---
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="32.85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="35%" />
 </div>
 
 ---
