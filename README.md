@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="imgs/yutaokkotsurika.jpeg" alt="Yuta Okkotsu e Rika" width="100%" />
-</div>
-
----
-
 # Olá, eu sou o Luii! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
 
 Me chamo Luis Felipe (mas no GitHub e outras redes deixo como Luii), sou estudante de Engenharia de Computação. Estou constantemente estudando novas ferramentas e me aperfeiçoando, buscando me tornar um desenvolvedor competente.
@@ -26,45 +20,19 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 </div>
 
 ---
-
-<div>
-
-  <h2 align="center">GitHub Stats</h2>
-
-  <div>  
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <br>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-    <br>
-    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" alt="GitHub Streak" />
-  </div>
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="32.85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="35%" />
 </div>
 
 ---
 
-<table border="0">
-  <tr>
-    <!-- Coluna da Esquerda: Seus 3 cards de estatísticas -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&count_private=true" width="100%" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiirye&theme=blueberry&show_icons=true&hide_border=true&layout=compact" width="100%" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiirye&theme=blueberry&hide_border=true" width="100%" />
-    </td>
-    <!-- Coluna da Direita: A sua imagem ilustrativa -->
-    <td width="50%" valign="top">
-      <img src="./imgs/reze_and_denji.wepb" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
-
-<div align="center>
-
-  <h2>Outras redes</h2>
-
+  <h2 align="center"> Outras redes </h2>
+  
   <a href="https://x.com/lulufelp"><img src="colored/twitter-x.svg" alt="X" width="30"/></a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/552106254189854722"><img src="colored/discord.svg" alt="Discord" width="30"/></a>
