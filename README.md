@@ -1,6 +1,6 @@
 # Olá, eu sou o Luii! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
 
-<img src="./imgs/Frieren_python.jpeg" alt="frieren_python" align="right" width="150">
+<img src="./imgs/Frieren_python.jpeg" alt="frieren_python" align="right" width="135">
 
 Me chamo Luis Felipe (mas no GitHub e outras redes deixo como Luii), sou estudante de Engenharia de Computação. Estou constantemente estudando novas ferramentas e me aperfeiçoando, buscando me tornar um desenvolvedor competente.
 
@@ -19,6 +19,7 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
   | **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python" valign="middle" /></a> |
   | **Frameworks e Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,selenium" valign="middle" /></a> |
   | **IDEs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,pycharm" valign="middle" /></a> |
+  | **Banco de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" valign="middle" /></a> |
 
 </div>
 
