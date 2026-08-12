@@ -15,9 +15,9 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
   | Categoria | Tecnologias |
   | --- | --- |
-  | **Sistemas e Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,github,obsidian,powershell,vercel,windows,mint" valign="middle" /></a> |
-  | **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python" valign="middle" /></a> |
-  | **Frameworks e Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,selenium" valign="middle" /></a> |
+  | **Sistemas e Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,github,obsidian,powershell,vercel,windows,ubuntu,mint,docker,linux" valign="middle" /></a> |
+  | **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,ts" valign="middle" /></a> |
+  | **Frameworks e Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,selenium,react" valign="middle" /></a> |
   | **IDEs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,pycharm" valign="middle" /></a> |
   | **Banco de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" valign="middle" /></a> |
 
