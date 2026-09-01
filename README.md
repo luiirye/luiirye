@@ -13,13 +13,11 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
   <h2>Tecnologias</h2>
 
-  | Categoria | Tecnologias |
-  | --- | --- |
-  | **Sistemas e Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,github,obsidian,powershell,vercel,windows,ubuntu,mint,docker,linux,bash" valign="middle" /></a> |
-  | **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,ts" valign="middle" /></a> |
-  | **Frameworks e Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,selenium,react" valign="middle" /></a> |
-  | **IDEs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,pycharm" valign="middle" /></a> |
-  | **Banco de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" valign="middle" /></a> |
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,django,docker,git,github,html,java,js,linux,mint,obsidian,postgres,powershell,pycharm,python,react,regex,selenium,ts,ubuntu,vscode" />
+  </a>
+</p>
 
 </div>
 
@@ -33,28 +31,15 @@ Gosto de estudar lógica e algoritmos, além de ler projetos de outros desenvolv
 
 ---
 
+ <div align="center">
+    <img src="https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="94%" />
+</div>
+
 <div align="center">
 
   <h2 align="center"> Outras redes </h2>
-  
-  <a href="https://x.com/lulufelp"><img src="colored/twitter-x.svg" alt="X" width="30"/></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/552106254189854722"><img src="colored/discord.svg" alt="Discord" width="30"/></a>
+  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/></a>
   &nbsp;&nbsp; 
-  <a href="https://www.linkedin.com"><img src="colored/linkedin.svg" alt="LinkedIn" width="30"/></a>
-  &nbsp;&nbsp; 
-  <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=ec457bf197834631"><img src="colored/spotify.svg" alt="Spotify" width="30"/></a>
+  <a href="https://open.spotify.com/user/21nrt6znecxe4ppk26pb33diq?si=ec457bf197834631"><img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" width="40"/></a>
 
-</div>
-
----
-
-<div align="center">
-  <p><i>"Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore, você não perceberá toda a floresta."</i></p>
-</div>
-
----
-
- <div align="center">
-    <img src="https://raw.githubusercontent.com/Luiirye/Luiirye/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="94%" />
 </div>
